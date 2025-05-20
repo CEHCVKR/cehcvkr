@@ -1,25 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Chinnapareddy Venkata Karthik Reddy (CEHCVKR)
 
-<!--
-**CEHCVKR/cehcvkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring **Security Operations Center (SOC) Analyst** and **Python Developer** with a keen interest in cybersecurity, ethical hacking, and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cehcvkr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cehcvkr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cehcvkr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔧 Passionate about **penetration testing**, **network security**, and **incident response**.
+- 📚 Continuously learning and exploring new technologies and methodologies in the cybersecurity domain.
+- 🧠 Enthusiastic about developing tools and scripts to automate security tasks and enhance operational efficiency.
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, Java, JavaScript, HTML, CSS, C
+- **Tools & Technologies:** Scapy, Wireshark, Metasploit, Burp Suite, Kali Linux, Batch Scripting, Nmap
+- **Concepts:** ARP Spoofing, Deauthentication Attacks, Network Scanning, Vulnerability Assessment
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CEHCVKR&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 📌 Featured Projects
+
+Here are some of my notable projects:
+
+- **[WiSpy-Deauth](https://github.com/CEHCVKR/WiSpy-Deauth):** A tool for detecting and deauthenticating unauthorized devices in a Wi-Fi network using ARP spoofing.
+- **[Network_Port_Scanner](https://github.com/CEHCVKR/Network_Port_Scanner):** A Python-based network port scanner for identifying open ports and services on remote hosts.
+- **[PyWall](https://github.com/CEHCVKR/PyWall):** A Python project aimed at automating firewall configurations and enhancing network security.
+
+## 📬 Let's Connect
+
+Feel free to reach out to me for collaboration, discussions, or just to connect:
+
+- 📧 Email: [22bq1a4720@gmail.com](mailto:22bq1a4720@gmail.com)
+- 🌐 GitHub: [@CEHCVKR](https://github.com/CEHCVKR)
+- 💼 LinkedIn: [@cvkr](https://linkedin.com/in/cvkr)
+
+## ⚠️ Disclaimer
+
+All projects and tools shared here are for **educational and ethical research purposes only**. Please ensure you have explicit permission before testing or deploying any tools in networks or systems you do not own.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cehcvkr&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Last updated: May 20, 2025*
