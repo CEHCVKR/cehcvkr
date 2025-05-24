@@ -16,7 +16,7 @@ I'm an aspiring **Security Operations Center (SOC) Analyst** and **Python Develo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CEHCVKR&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CEHCVKR&show_icons=true&theme=gotham)
 
 ## 📌 Featured Projects
 
