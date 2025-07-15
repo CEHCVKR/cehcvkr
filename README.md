@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Chinnapareddy Venkata Karthik Reddy (CEHCVKR)
+# 👋 Hello, I'm CHINNAPAREDDY VENKATA KARTHIK REDDY
 
 ## 🔍 About Me
 
